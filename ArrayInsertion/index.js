@@ -1,4 +1,4 @@
-let data = [60, 20, 30, 40, 10];
+let data = [60, 20, 30, 40, 10, 5];
 let newEl = 12;
 let position = 2 - 1;
 
